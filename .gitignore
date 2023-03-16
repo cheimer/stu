@@ -1,0 +1,15 @@
+.vs
+.Binaries
+.Build
+/DerivedDataCache
+/Intermediate
+/Packing
+/Saved
+/Script
+/.clang-format
+/.vs
+/Build
+*.sln
+*._BuiltData.uasset
+/Binaries
+/Content/ExternalContent
